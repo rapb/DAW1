@@ -27,7 +27,6 @@ public class ClaseDAW1 {
 		String al25_CristianVartic = "";
 		String al26_AlvaroDiez = "";
 
-
 	}
 
 }
