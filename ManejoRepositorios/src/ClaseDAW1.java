@@ -14,7 +14,7 @@ public class ClaseDAW1 {
 		String al08_RubenCayon = "";
 		String al09_PedroDelgado = "";
 		String al10_DarioEscobar = "";
-		String al11_PaulaEstrada = "";
+		String al11_PaulaEstrada = "Paula :) ";
 		String al13_ManuelGarcia = "";
 		String al14_MarioGomez = "";
 		String al15_ManuelGonzalez = "";
