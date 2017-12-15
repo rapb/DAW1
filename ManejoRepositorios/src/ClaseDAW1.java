@@ -21,7 +21,7 @@ public class ClaseDAW1 {
 		String al16_CeciliaHerrero = "";
 		String al18_AlfredoMarcano = "";
 		String al20_OmarNieto = "";
-		String al21_RaquelPerez = "";
+		String al21_RaquelPerez = "Raquel P. Bonifaz";
 		String al22_VictorPernia = "";
 		String al23_JavierRubio = "";
 		String al25_CristianVartic = "";
